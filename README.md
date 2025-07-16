@@ -23,5 +23,5 @@ Run the script by passing the Reddit user URL:
 ```
 python main.py https://www.reddit.com/user/kojied/
 ```
-
+Create a "output" named folder.
 The output will be saved in the `output/` folder as a `.txt` file.
